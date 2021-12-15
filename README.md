@@ -3,9 +3,9 @@
 My name is Ankur Gupta. I'm a Final year undergraduate student at Rajiv Gandhi Institute of Petroleum Technology, Jais. I'm currently learning Data Science and Machine Learning and I'll be happy to collab with people having similar interests!!
 ### Connect with me:
 
-[<img align="left" alt="cynic00.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="cynic00.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website](https://cynic00.github.io/)
+[<img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin](https://www.linkedin.com/in/ankur-gupta-53042b122/)
+[<img align="left" alt="instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram](https://www.instagram.com/cyn_i_c)
 
 <br />
 
