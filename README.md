@@ -1,16 +1,19 @@
-### Hi there 👋
+Hi there, I'm Annie Saxena 👋
+I'm a Final year undergraduate student at MNNIT Allahabad!
+🌱 I'm currently learning Data Science and Machine Learning 💻
+💻 I love competitive coding and solving DS Algo problems 😻
+👯 I'll be happy to collab with people having similar interests!!
+☘️ 2021 Goals: BE GOOD. DO GOOD. FEEL GOOD.
+✨ Fun Fact: I love Dancing 💃 and Travelling 🧳
+Connect with me:
+PortfolioAnnie.comLinkedininstagram
 
-<!--
-**cynic00/cynic00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Languages and Tools:
+PyC++JavaHTML5CSS3JavaScriptReactNode.jsSQLGitGitHubVisual Studio CodeJyuptertf
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+Annie's GitHub stats
+
+Top Langs
