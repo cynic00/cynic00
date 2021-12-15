@@ -1,6 +1,9 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Ankur Gupta. I'm a Final year undergraduate student at Rajiv Gandhi Institute of Petroleum Technology, Jais. I'm currently learning Data Science and Machine Learning and I'll be happy to collab with people having similar interests!!
+My name is Ankur Gupta. 
+I'm a Final year undergraduate student at Rajiv Gandhi Institute of Petroleum Technology, Jais. 
+I'm currently learning Data Science and Machine Learning and I'll be happy to collab with people having similar interests!!
+
 ### Connect with me:
 
 [<img align="left" alt="cynic00.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://cynic00.github.io/)
